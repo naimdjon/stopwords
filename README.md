@@ -1,4 +1,4 @@
 stopwords
 =========
 
-a collection of stopwords for English
+A collection of stopwords for English
